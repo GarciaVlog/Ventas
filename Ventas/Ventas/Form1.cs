@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("El Pequeño del Hoy, Es el Grande De Mañana");
         }
     }
 }
